@@ -77,7 +77,8 @@ If a match is found in the known faces list:
    
 ## 🖼️ Images / Videos
 
-<img width="961" height="545" alt="Screenshot 2025-07-31 at 1 02 44 PM" src="https://github.com/user-attachments/assets/ae4b47f4-8e5e-4586-a2a5-19c9f4e4b68c" />
+<img width="680" height="621" alt="Screenshot 2025-08-04 at 9 30 42 AM" src="https://github.com/user-attachments/assets/d2577b5e-3a87-43d6-a28f-43e66ccdcd69" />
+
 
 
 ## 🔗 Simulation Links
