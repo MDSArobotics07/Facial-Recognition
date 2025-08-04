@@ -77,8 +77,8 @@ If a match is found in the known faces list:
    
 ## 🖼️ Images / Videos
 
-Include your project photo or demonstration video here.
-(Example: circuit diagram, screenshot of face recognition, photo of servo unlocking)
+<img width="961" height="545" alt="Screenshot 2025-07-31 at 1 02 44 PM" src="https://github.com/user-attachments/assets/ae4b47f4-8e5e-4586-a2a5-19c9f4e4b68c" />
+
 
 ## 🔗 Simulation Links
 
